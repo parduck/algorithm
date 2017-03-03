@@ -10,3 +10,4 @@ c function
 
 2. quicksot : quicksort, search(), upper bind, lower bind...
 3. remotecon: bfs, queue, struct
+4. hashing table : separate chaining hash
